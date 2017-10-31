@@ -3,4 +3,5 @@
  */
 public class helloword {
     private int anInt;
+    private  int b;
 }
