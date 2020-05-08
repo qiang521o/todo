@@ -4,4 +4,5 @@
 public class helloword {
     private int anInt;
     private  int b;//nihao
+    private int a;
 }
